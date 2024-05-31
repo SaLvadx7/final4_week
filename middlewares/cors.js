@@ -1,6 +1,6 @@
 const allowedCors = [
-  "https://frontsaba.nomoredomainswork.ru", 
-  "http://frontsaba.nomoredomainswork.ru",
+ "finalgg.nomorepartiesco.ru", 
+  "weekgg.nomorepartiesco.ru",
    "http://localhost:3000"
 ];
 
