@@ -1,5 +1,5 @@
-Ссылка на репозиторий с фронтендом: https://github.com/SaLvadx7/pindie-frontend.git
+Ссылка на репозиторий с фронтендом: https:// https://weekgg.nomorepartiesco.ru/ 
 
-Ссылка на домен фронтенда: https://frontsaba.nomoredomainswork.ru/
+Ссылка на домен фронтенда:https://finalgg.nomorepartiesco.ru/
 
 IP-адрес: 158.160.170.227
